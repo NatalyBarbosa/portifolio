@@ -1,15 +1,11 @@
-# Olá, Bem vindo ao meu projeto de portfólio. 🖥️
+<h1>Projetos e exercícios da mentoria do Cloud Girls</h1>
 
-![image](https://1drv.ms/i/c/3c19ef114f291871/EUzY7KtIL8RIu3vNzLBEA_MB-PYk2NasP6CfVAV8ZF5F5A?e=QRMGtH)
+<h2> 🖥️ Sobre</h2>
+<p>Projetos e exercícios utilizados nos cursos de lógica de programação da Alura.</p>
 
-## 🚀 Ferramentas utilizadas:
-
-📍 HTML
-
-📍 CSS
-
-📍 Flex-box
-
-## Feito por:
-
-### Nataly Barbosa
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
